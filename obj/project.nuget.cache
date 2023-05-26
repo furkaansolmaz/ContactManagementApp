@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7lUONNJ6dNtU/j8o4R6nxcznXeS7T83pZVe8ND6FrSOQx12bmRxLVU2NGU2NYf54Sm1FK3mXZx6WbFoMX80Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FS03526\\source\\ContactManagementApp\\ContactManagementApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FS03526\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\FS03526\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\FS03526\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\FS03526\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\FS03526\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
